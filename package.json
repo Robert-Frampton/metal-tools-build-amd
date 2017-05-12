@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "del": "^2.1.0",
+    "gulp-metal": "^2.0.2",
     "jshint": "^2.7.0",
     "mocha": "^2.2.5",
     "sinon": "^1.17.2"
